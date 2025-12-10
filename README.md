@@ -96,14 +96,10 @@ Sou um **desenvolvedor Full Stack** apaixonado por tecnologia, programação e i
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel_MuzetiE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_MuzetiE&layout=compact&langs_count=8&theme=tokyonight)
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel_MuzetiE&theme=tokyonight)
 
 </div>
 
@@ -113,7 +109,7 @@ Sou um **desenvolvedor Full Stack** apaixonado por tecnologia, programação e i
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gabriel_MuzetiE&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -182,8 +178,8 @@ Sou um **desenvolvedor Full Stack** apaixonado por tecnologia, programação e i
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_DO_REPO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO2&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_DO_REPO2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel_MuzetiE&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/Gabriel_MuzetiE/NOME_DO_REPO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel_MuzetiE&repo=NOME_DO_REPO2&theme=tokyonight)](https://github.com/Gabriel_MuzetiE/NOME_DO_REPO2)
 
 </div>
 
@@ -199,7 +195,7 @@ Se você busca alguém **inovador**, **eficiente** e com **paixão por entregar 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-campos-035376231/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.muzeti123@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel_MuzetiE)
 
 <br>
 
@@ -230,7 +226,7 @@ Se você busca alguém **inovador**, **eficiente** e com **paixão por entregar 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Gabriel_MuzetiE&color=blueviolet&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
