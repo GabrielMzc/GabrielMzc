@@ -10,93 +10,85 @@
 
 ## 🚀 Sobre mim
 
-```typescript
-const gabriel = {
-    role: "Full Stack Developer",
-    experience: "3+ anos",
-    location: "Guaíra, São Paulo, BR",
-    passion: ["Programação", "Inovação", "Tecnologia"],
-    mindset: "Sempre em busca de novos desafios",
-    focus: ["Soluções eficientes", "Performance", "Clean Code"],
-    currentlyLearning: ["Microservices", "DevOps", "Cloud Architecture"]
-};
-```
+Sou um **desenvolvedor Full Stack** apaixonado por tecnologia, programação e inovação. Com mais de **3 anos de experiência** no mercado, sempre busquei novos desafios e oportunidades para crescer profissionalmente, entregando soluções eficientes, rápidas e inovadoras para os projetos em que atuo.
 
-<div align="center">
+### 💡 O que me move
 
-### 💡 **Desenvolvedor Full Stack** com mais de **3 anos** no mercado
-
-🎯 Foco em entregar soluções **eficientes, rápidas e inovadoras**  
-🌱 Constantemente me atualizando com as melhores práticas  
-⚡ Transformando ideias em código que faz a diferença
-
-</div>
+- 🎯 **Sempre em busca de novos desafios** e oportunidades de crescimento
+- ❤️ **Apaixonado por programação** e pelo universo da tecnologia
+- 💻 **Mais de 3 anos no mercado** desenvolvendo soluções web
+- 🏆 **Atuação Full Stack completa**: domínio de frontend e backend
+- 🌱 **Aprendizado contínuo** e atualização constante com as melhores práticas
+- ⚡ **Foco em performance**: soluções eficientes, rápidas e escaláveis
+- 🎨 **Design matters**: preocupação com UI/UX e experiência do usuário
+- 🔧 **Clean Code**: código limpo, testável e de fácil manutenção
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+### Frontend Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+</p>
 
-### 💻 Linguagens & Frameworks
+### Backend Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50"/>
+  <img src="https://github.com/adonisjs.png" alt="AdonisJS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Database & ORM
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+</p>
 
-### 🎨 Frontend
+### DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
+</p>
 
-![Vue.js](https://img.shields.io/badge/-Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+### Testing & Quality
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50"/>
+  <img src="https://vitest.dev/logo.svg" alt="Vitest" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
+</p>
 
-### ⚙️ Backend
-
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🚀 DevOps & Ferramentas
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🧪 Testes & Qualidade
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-### 🎯 Outras Tecnologias
-
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
+### Tools & Others
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" width="50" height="50"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50"/>
+</p>
 
 ---
 
@@ -127,39 +119,62 @@ const gabriel = {
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Áreas de Atuação
 
-```javascript
-const experiencia = [
-  {
-    area: "Frontend Development",
-    especialidades: ["Vue.js", "Nuxt", "UI/UX", "Performance"],
-    destaque: "Interfaces modernas e responsivas"
-  },
-  {
-    area: "Backend Development", 
-    especialidades: ["NestJS", "AdonisJS", "APIs RESTful", "GraphQL"],
-    destaque: "Arquiteturas escaláveis e robustas"
-  },
-  {
-    area: "Database Management",
-    especialidades: ["PostgreSQL", "MongoDB", "Otimização"],
-    destaque: "Modelagem eficiente de dados"
-  },
-  {
-    area: "DevOps",
-    especialidades: ["Docker", "CI/CD", "Cloud"],
-    destaque: "Deploy automatizado e confiável"
-  }
-];
-```
+<table>
+<tr>
+<td width="50%">
 
----
+### 🎨 Frontend Development
+- Desenvolvimento de interfaces modernas e responsivas
+- Experiência com Vue.js 3 e Nuxt 3
+- Domínio de React e Next.js
+- Expertise em Tailwind CSS e Bootstrap
+- Animações e transições com CSS/JS
+- Performance e otimização de aplicações
+- Acessibilidade e boas práticas de UI/UX
 
-## 📈 Atividade Recente
+</td>
+<td width="50%">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### ⚙️ Backend Development
+- Desenvolvimento de APIs RESTful robustas
+- Implementação de GraphQL
+- Arquitetura de microserviços
+- Autenticação e autorização (JWT, OAuth)
+- WebSockets e comunicação em tempo real
+- Clean Architecture e Design Patterns
+- Testes unitários e de integração
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ Database Management
+- Modelagem e design de banco de dados
+- Otimização de queries e performance
+- Experiência com SQL e NoSQL
+- Migrações e versionamento de schema
+- Backup e recuperação de dados
+- Redis para cache e filas
+- ORMs (Prisma, TypeORM, Lucid)
+
+</td>
+<td width="50%">
+
+### 🚀 DevOps & Deployment
+- Containerização com Docker
+- Orquestração com Kubernetes
+- CI/CD com GitHub Actions
+- Deploy em cloud (AWS, Vercel, Netlify)
+- Monitoramento e logging
+- Configuração de servidores Linux
+- Automação de processos
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -178,19 +193,19 @@ const experiencia = [
 
 <div align="center">
 
-### 📫 Entre em contato comigo
+Se você busca alguém **inovador**, **eficiente** e com **paixão por entregar resultados**, vamos conversar!
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-campos-035376231/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.muzeti123@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
 
----
+<br>
 
-### 💬 Se você busca...
+### 💬 Disponível para:
 
-✨ **Inovação** • 🚀 **Eficiência** • 💪 **Comprometimento** • 🎯 **Resultados**
-
-### Então vamos conversar!
+✨ Projetos desafiadores • 🚀 Freelance • 💼 Oportunidades Full-time • 🤝 Colaborações
 
 </div>
 
@@ -198,7 +213,7 @@ const experiencia = [
 
 <div align="center">
 
-## 💭 Frase que me inspira
+## 💭 Filosofia de Trabalho
 
 > *"Sempre há uma solução eficiente esperando para ser descoberta.  
 > Eu estou sempre pronto para encontrá-la!"*
@@ -209,13 +224,14 @@ const experiencia = [
 
 🎮 Gamer nas horas vagas  
 ☕ Movido a café e código  
-🌙 Desenvolvedor noturno  
-📚 Eterno aprendiz  
+🌙 Produtividade máxima à noite  
+📚 Eterno aprendiz de tecnologia  
+🎵 Codar com boa música é essencial  
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/Trilha-SP2/SP2-Deploy/main/assets/footer.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
